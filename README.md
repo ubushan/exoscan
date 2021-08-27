@@ -1,15 +1,18 @@
-## ExoScan - External assets checker
+# ExoScan
+External assets checker
 
-### Uses tools
-1. Amass - domains discover
-2. Masscan - open ports discover
-3. Wappalyzer - check web techologies
-4. Dirsearch - web path scanner
-3. ? Nmap (hostscan) - ports, services, vulns discover
-4. ? (webscan) - vulnerability discover
+## Tools
+- Amass - domains discover
+- Masscan - open ports discover
+- Wappalyzer - check web techologies
+- Dirsearch - web path scanner
+- ? Nmap (hostscan) - ports, services, vulns discover
+- ? (webscan) - vulnerability discover
 
-### To Do
-NoSQL DB, Web, Async, Multithreads, Containers
+## Need to do
+- NoSQL DB (Mongo)
+- Web (Django)
+- Containers (Docker)
 
-### Ideal result
+## Ideal result
 Reports, Dashboards
