@@ -1,0 +1,4 @@
+nmap -A -sS <ip> -oX output/nmap.xml --script <...>
+
+# NSE scripts
+vulners

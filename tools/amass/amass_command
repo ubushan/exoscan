@@ -1,1 +1,1 @@
-amass enum -df tools/amass/domains.txt -active -json -o output/amass.json
+amass enum -df assets/domains.txt -active -json -o output/amass.json
