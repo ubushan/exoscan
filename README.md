@@ -8,3 +8,6 @@
 
 ### To Do
 NoSQL DB, Web, Async, Multithreads, Containers
+
+### Ideal result
+Reports, Dashboards
