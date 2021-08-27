@@ -1,3 +1,1 @@
-kaspersky.com
-kaspersky.ru
-kaspersky-labs.com
+example.com
